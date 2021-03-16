@@ -5,7 +5,7 @@
 - 🔭 I love tech!
 - 🌱 Always looking to learn new things and improve my coding skills.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to read, play games and browsw codepen.
 
 <!-- ### Spotify Playing 🎧
 
