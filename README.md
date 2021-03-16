@@ -5,7 +5,7 @@
 - 🔭 I love tech!
 - 🌱 Always looking to learn new things and improve my coding skills.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read, play games and browsw codepen.
+- ⚡ Fun fact: I love to read, play games and browse codepen.
 
 <!-- ### Spotify Playing 🎧
 
@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dangerzone | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="andresrosalespinzon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
