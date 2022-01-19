@@ -45,16 +45,16 @@
 ---
 
 <br />
-
+<!-- 
 <details>
-  <!-- <summary>:zap: Recent GitHub Activity</summary>-->
+  <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
-
+-->
 
 <details>
- <!--<summary>:zap: GitHub Stats</summary>-->
+<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Dang3rZone's GitHub Stats" src="https://github-stats-dang3rzone.vercel.app/api?username=Dang3rZone&show_icons=true&hide_border=true" />
 </details>
