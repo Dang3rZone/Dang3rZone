@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-two-eta.vercel.app/api/spotify-playing)]
+[![Spotify](https://dang3rzone.vercel.app/api/spotify)](https://open.spotify.com/user/andr3ignacio)
 
 [<img src="https://novatorem-two-eta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
