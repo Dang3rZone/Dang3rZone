@@ -13,7 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dangerzone | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+<!--https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white-->
+[<img align="left" alt="dangerzone | Twitter" width="22px" src="https://img.shields.io/twitter/follow/Dang3rZo"/>][twitter]
 [<img align="left" alt="andresrosalespinzon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <br />
