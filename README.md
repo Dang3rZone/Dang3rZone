@@ -8,8 +8,10 @@
 - ⚡ Fun fact: I love to read, play games and browse codepen.
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-dang3rzone.vercel.app/api/spotify-playing)](https://open.spotify.com/user/f87b185eab1e43118135b1c715207aee)
-<!--[<img src="https://novatorem-dang3rzone.vercel.app/api/spotify-playing" alt="dang3rzone Spotify Playing" width="350" />](https://open.spotify.com/user/f87b185eab1e43118135b1c715207aee)-->
+
+[![Spotify](https://novatorem-two-eta.vercel.app/api/spotify-playing)](https://open.spotify.com/user/f87b185eab1e43118135b1c715207aee)
+
+[<img src="https://novatorem-two-eta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />(https://open.spotify.com/user/f87b185eab1e43118135b1c715207aee)
 
 ### Connect with me:
 
