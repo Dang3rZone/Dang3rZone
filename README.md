@@ -48,13 +48,13 @@
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
----
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Dang3rZone's GitHub Stats" src="https://github-stats-dang3rzone.vercel.app/api?username=Dang3rZone&show_icons=true&hide_border=true" />
 </details>
----
+
 
 [twitter]: https://twitter.com/dang3rzo
 [linkedin]: https://linkedin.com/in/andresignaciorosales/
