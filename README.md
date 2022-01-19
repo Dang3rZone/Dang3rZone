@@ -9,9 +9,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-two-eta.vercel.app/api/spotify-playing)](https://open.spotify.com/user/f87b185eab1e43118135b1c715207aee)
+[![Spotify](https://novatorem-two-eta.vercel.app/api/spotify-playing)]
 
-[<img src="https://novatorem-two-eta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />(https://open.spotify.com/user/f87b185eab1e43118135b1c715207aee)
+[<img src="https://novatorem-two-eta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
 ### Connect with me:
 
