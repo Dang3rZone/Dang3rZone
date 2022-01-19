@@ -1,4 +1,4 @@
-### Hi there, I'm Andrés - aka [Dang3rZone]
+## Hi there, I'm Andrés - aka [Dang3rZone]
 
 ## I'm a software developer from Spain! Follow me on Twitter for cool coding tips
 
