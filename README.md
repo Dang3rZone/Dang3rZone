@@ -11,8 +11,6 @@
 
 [![Spotify](https://novatorem-two-eta.vercel.app/api/spotify)](https://open.spotify.com/user/andr3ignacio)
 
-[<img src="https://novatorem-two-eta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
-
 ### Connect with me:
 
 [<img align="left" alt="dang3rzo | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
@@ -47,15 +45,16 @@
 ---
 
 <br />
-
+<!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
+-->
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <!--<summary>:zap: GitHub Stats</summary>-->
 
 <img align="left" alt="Dang3rZone's GitHub Stats" src="https://github-stats-dang3rzone.vercel.app/api?username=Dang3rZone&show_icons=true&hide_border=true" />
 </details>
