@@ -2,7 +2,7 @@
 
 ### I'm a software developer from Spain! Follow me on Twitter for cool coding tips
 
-- 🌱 I’m currently learning **PHP/Symfony**
+- 🌱 I’m currently learning **PHP/Symfony** and **GCP**
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, play games and tech.
 
