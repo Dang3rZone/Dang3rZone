@@ -2,7 +2,7 @@
 
 ### I'm a software developer from Spain! Follow me on Twitter for cool coding tips
 
-- 🌱 I’m currently working **Svelte, Angular, Jest and Cypress**, also learning **GCP/AWS**.
+- 🌱 I’m currently working with **Angular, Svelte, Jest and Cypress**, also learning **GCP/AWS**.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read, play games and tech.
 
