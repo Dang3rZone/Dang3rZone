@@ -3,7 +3,7 @@
 ### I'm a software developer from Spain! Follow me on Twitter for cool coding tips
 
 - 🌱 I’m currently working with **React, Angular, Svelte, Jest and Cypress**, also learning **AZURE/GCP/AWS**.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read, play games and tech.
 
 ### Spotify Playing 🎧
