@@ -2,10 +2,10 @@
 
 ### I'm a software developer from Spain! Follow me on Twitter for cool coding tips
 
-- 🌱 I’m currently working with **React, Angular, Svelte, Jest and Cypress**, also learning **AZURE/GCP/AWS**.
+- 🌱 I’m currently working with **React, Angular, Svelte, Jest and Cypress**.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read, play games and tech.
-
+<!-- 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-two-eta.vercel.app/api/spotify)](https://open.spotify.com/user/andr3ignacio)
@@ -57,6 +57,6 @@
 <img align="left" alt="Dang3rZone's GitHub Stats" src="https://github-stats-dang3rzone.vercel.app/api?username=Dang3rZone&show_icons=true&hide_border=true" /> -->
 
 
-
+<!-- 
 [twitter]: https://twitter.com/dang3rzo
 [linkedin]: https://linkedin.com/in/andresignaciorosales/
