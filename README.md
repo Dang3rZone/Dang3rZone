@@ -1,6 +1,6 @@
 ## Hi there, I'm Andrés - aka [Dang3rZone]
 
-### I'm a software developer from Spain! Follow me on Twitter for cool coding tips
+### I'm a software developer from Spain!
 
 - 🌱 I’m currently working with **React, Angular, Svelte, Jest and Cypress**.
 - 🥅 Goals: Contribute more to Open Source projects.
