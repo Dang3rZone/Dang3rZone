@@ -1,62 +1,47 @@
-## Hi there, I'm Andrés - aka [Dang3rZone]
-
-### I'm a software developer from Spain!
-
-- 🌱 I’m currently working with **React, Angular, Svelte, Jest and Cypress**.
-- 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to read, play games and tech.
-<!-- 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-two-eta.vercel.app/api/spotify)](https://open.spotify.com/user/andr3ignacio)
-
-### Connect with me:
-
-[<img align="left" alt="dang3rzo | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
-[<img align="left" alt="andresrosalespinzon | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-
+<div align="center">
+<a href="https://github.com/Dang3rZone">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=3000\&pause=1200\&color=00D1B2\&center=true\&vCenter=true\&width=640\&height=70\&lines=Dang3rZone;Frontend+developer;PS5+homebrew+contributor;Open+source+tinkerer" alt="Dang3rZone: frontend developer, PS5 homebrew contributor, open source tinkerer" />
+</a>
 <br />
-
+<img src="https://img.shields.io/github/followers/Dang3rZone?style=for-the-badge\&logo=github\&color=00d1b2" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/PS5-homebrew-0070D1?style=for-the-badge\&logo=playstation\&logoColor=white" alt="PS5 homebrew" />
+<img src="https://img.shields.io/badge/open%20source-contributor-2ea44f?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white" alt="Open source contributor" />
+</div>
 ---
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Svelte" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" />
-<img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="GraphQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="cypress" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
-<img align="left" alt="jest" width="22px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+👋 About me
+🌱 I'm currently working with React, Angular, Svelte, Jest and Cypress.
+🎮 Lately I spend my free time in the PS5 homebrew scene: cheats, payload tooling and app features.
+🥅 Goal: contribute more to open source.
+⚡ Fun fact: I love books, games and tech.
+🎮 PS5 homebrew
+I like giving back to the scene. What I've worked on so far:
+🕹️ Cheat Runner: a Diablo II: Resurrected cheat.
+📦 Payload Manager: quality-of-life improvements.
+📺 Stremio Plus: playback shortcuts.
+Want a feature added to a payload? Open an issue on its repo and mention me. I help when I have time.
+🛠️ Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,svelte,jest,cypress,nodejs,graphql,mysql,mongodb,git,vscode,bash\&theme=light\&perline=9" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,svelte,jest,cypress,nodejs,graphql,mysql,mongodb,git,vscode,bash\&theme=dark\&perline=9" alt="Tech stack: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Angular, Svelte, Jest, Cypress, Node.js, GraphQL, MySQL, MongoDB, Git, VS Code, Bash" />
+    </picture>
+  </a>
+</p>
+📈 Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/output/github-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/output/github-snake.svg" />
+  </picture>
+</div>
 <br />
-
+<div align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
+  <img src="./profile/top-langs.svg" alt="Most used languages" height="170" />
+</div>
 ---
-
-<br />
-<!-- 
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-
-
-<!-- <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Dang3rZone's GitHub Stats" src="https://github-stats-dang3rzone.vercel.app/api?username=Dang3rZone&show_icons=true&hide_border=true" /> -->
-
-
-<!-- 
-[twitter]: https://twitter.com/dang3rzo
-[linkedin]: https://linkedin.com/in/andresignaciorosales/
+<div align="center">
+  <sub>Found a bug in one of my PRs or have an idea? Issues and pull requests are welcome.</sub>
+</div>
