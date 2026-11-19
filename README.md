@@ -34,12 +34,10 @@ Want a feature added to a payload? Open an issue on its repo and mention me. I h
 ### 🛠️ Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,svelte,jest,cypress,nodejs,graphql,mysql,mongodb,git,vscode,bash&theme=light&perline=9" />
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,svelte,jest,cypress,nodejs,graphql,mysql,mongodb,git,vscode,bash&theme=dark&perline=9" alt="Tech stack: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Angular, Svelte, Jest, Cypress, Node.js, GraphQL, MySQL, MongoDB, Git, VS Code, Bash" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/master/stack-light.svg" />
+    <img src="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/master/stack-dark.svg" alt="Tech stack: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Angular, Svelte, Jest, Cypress, Node.js, GraphQL, MySQL, MongoDB, Git, VS Code" />
+  </picture>
 </p>
 
 ### 📈 Activity
