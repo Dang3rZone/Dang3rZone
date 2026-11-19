@@ -28,6 +28,7 @@ I like giving back to the scene. What I've worked on so far:
 - 🕹️ **Cheat Runner**: a Diablo II: Resurrected, Sea of Stars.
 - 📦 **Payload Manager**: quality-of-life improvements.
 - 📺 **Stremio Plus**: playback shortcuts. Fixed subtitles.
+- 🕹️ **ampr-emu-ng**: Retry a refused save-creation mount with systemBlocks 0. 
 
 Want a feature added to a payload? Open an issue on its repo and mention me. I help when I have time.
 
