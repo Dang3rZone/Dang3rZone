@@ -32,7 +32,7 @@ I like giving back to the scene. What I've worked on so far:
 - 📦 **Payload Manager**: quality-of-life improvements.
 - 📺 **Stremio Plus**: playback shortcuts. Fixed subtitles.
 - 💾 **ampr-emu-ng**: fixed games that couldn't create a save (like Castlevania: Belmont's Curse).
-- ⚡ **Kraken Mount**: games register 15-23 s faster each, and the log now has timestamps and timings.
+- ⚡ **Kraken Mount**: rebuilding the whole library is about 6× faster (11 min 43 s → under 2 min), faster registration, and timestamps in the log.
 
 Want a feature added to a payload? Open an issue on its repo and mention me. I help when I have time.
 
