@@ -25,10 +25,11 @@
 
 I like giving back to the scene. What I've worked on so far:
 
-- 🕹️ **Cheat Runner**: a Diablo II: Resurrected, Sea of Stars.
+- 🕹️ **Cheat Runner**: cheats for Diablo II: Resurrected and Sea of Stars.
 - 📦 **Payload Manager**: quality-of-life improvements.
 - 📺 **Stremio Plus**: playback shortcuts. Fixed subtitles.
-- 🕹️ **ampr-emu-ng**: Retry a refused save-creation mount with systemBlocks 0. 
+- 💾 **ampr-emu-ng**: fixed games that couldn't create a save (like Castlevania: Belmont's Curse).
+- ⚡ **Kraken Mount**: games register 15-23 s faster each, and the log now has timestamps and timings.
 
 Want a feature added to a payload? Open an issue on its repo and mention me. I help when I have time.
 
