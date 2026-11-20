@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/github/followers/Dang3rZone?style=for-the-badge&logo=github&color=00d1b2" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/PS5-homebrew-0070D1?style=for-the-badge&logo=playstation&logoColor=white" alt="PS5 homebrew" />
 <img src="https://img.shields.io/badge/open%20source-contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open source contributor" />
+<a href="https://www.buymeacoffee.com/YOUR_PAGE_NAME">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
+</a>
 
 </div>
 
