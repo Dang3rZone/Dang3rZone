@@ -37,14 +37,13 @@ I like giving back to the scene. What I've worked on so far:
 
 Want a feature added to a payload? Open an issue on its repo and mention me. I help when I have time.
 
-### 🛠️ Stack
+### 🤝 Merged pull requests
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/master/stack-light.svg" />
-    <img src="https://raw.githubusercontent.com/Dang3rZone/Dang3rZone/master/stack-dark.svg" alt="Tech stack: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Angular, Svelte, Jest, Cypress, Node.js, GraphQL, MySQL, MongoDB, Git, VS Code" />
-  </picture>
-</p>
+Merged PRs in other people's repos, updated daily.
+
+<!-- MERGED_PRS:START -->
+_Fills in after the first run of the "Merged PRs" workflow._
+<!-- MERGED_PRS:END -->
 
 ### 📈 Activity
 
@@ -56,12 +55,6 @@ Want a feature added to a payload? Open an issue on its repo and mention me. I h
   </picture>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
-  <img src="./profile/top-langs.svg" alt="Most used languages" height="170" />
-</div>
 
 ---
 
