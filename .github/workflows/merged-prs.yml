@@ -1,0 +1,118 @@
+name: Merged PRs
+
+# Fills the section between the MERGED_PRS markers in README.md with your
+# merged pull requests in repositories you don't own. Public repos only.
+
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master, main]
+    paths:
+      - ".github/workflows/merged-prs.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merged-prs
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Fetch merged PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          gh api -X GET search/issues \
+            -f q="author:${OWNER} is:pr is:merged is:public -user:${OWNER}" \
+            -f sort=updated -f order=desc -f per_page=100 > prs.json
+
+      - name: Update README
+        env:
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, sys
+          from datetime import datetime
+
+          owner = os.environ["OWNER"].lower()
+          MAX_REPOS = 8       # repos shown (most recently merged first)
+          MAX_PER_REPO = 4    # PRs shown under each repo
+
+          data = json.load(open("prs.json"))
+          if "items" not in data:
+              sys.exit("Unexpected API response, leaving README untouched")
+
+          prs = []
+          for it in data["items"]:
+              pr = it.get("pull_request") or {}
+              merged = pr.get("merged_at")
+              if not merged:
+                  continue
+              repo = it["repository_url"].split("/repos/")[1]
+              if repo.split("/")[0].lower() == owner:
+                  continue
+              prs.append({
+                  "repo": repo,
+                  "number": it["number"],
+                  "title": it["title"],
+                  "url": it["html_url"],
+                  "merged": merged,
+              })
+
+          prs.sort(key=lambda p: p["merged"], reverse=True)
+
+          def clean(t):
+              t = " ".join(t.split())
+              if len(t) > 90:
+                  t = t[:87].rstrip() + "..."
+              for a, b in (("[", "\\["), ("]", "\\]"), ("<", "&lt;"), (">", "&gt;")):
+                  t = t.replace(a, b)
+              return t
+
+          groups = {}
+          for p in prs:                      # dict keeps newest-first order
+              groups.setdefault(p["repo"], []).append(p)
+
+          lines = []
+          for repo, items in list(groups.items())[:MAX_REPOS]:
+              n = len(items)
+              lines.append(f"- **[{repo}](https://github.com/{repo})** ({n} merged)")
+              for p in items[:MAX_PER_REPO]:
+                  d = datetime.fromisoformat(p["merged"].replace("Z", "+00:00"))
+                  lines.append(f"  - [#{p['number']}]({p['url']}) {clean(p['title'])} · {d:%b %Y}")
+              if n > MAX_PER_REPO:
+                  lines.append(f"  - ...and {n - MAX_PER_REPO} more")
+          if not lines:
+              lines = ["_Nothing merged yet. Working on it._"]
+
+          block = "\n".join(lines)
+          readme = open("README.md", encoding="utf-8").read()
+          pattern = re.compile(r"(<!-- MERGED_PRS:START -->)(.*?)(<!-- MERGED_PRS:END -->)", re.S)
+          if not pattern.search(readme):
+              sys.exit("Markers not found in README.md")
+          new = pattern.sub(lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}", readme)
+          if new != readme:
+              open("README.md", "w", encoding="utf-8").write(new)
+          print(f"{len(prs)} PRs in {len(groups)} repos")
+          PY
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update merged PRs list"
+          git pull --rebase
+          git push
