@@ -42,7 +42,17 @@ Want a feature added to a payload? Open an issue on its repo and mention me. I h
 Merged PRs in other people's repos, updated daily.
 
 <!-- MERGED_PRS:START -->
-_Fills in after the first run of the "Merged PRs" workflow._
+- **[phantomptr/ps5upload](https://github.com/phantomptr/ps5upload)** (1 merged)
+  - [#911](https://github.com/phantomptr/ps5upload/pull/911) Clear all in the notification bell panel · Nov 2026
+- **[quer3q/kraken-mount](https://github.com/quer3q/kraken-mount)** (3 merged)
+  - [#95](https://github.com/quer3q/kraken-mount/pull/95) Register FW 12+ titles with one install call per scan pass · Nov 2026
+  - [#92](https://github.com/quer3q/kraken-mount/pull/92) Timestamp every log line; log cache build, registration and slow scan times · Nov 2026
+  - [#94](https://github.com/quer3q/kraken-mount/pull/94) Copy staged sce_sys and appmeta files 1 MiB at a time · Nov 2026
+- **[quer3q/ampr-emu-ng](https://github.com/quer3q/ampr-emu-ng)** (1 merged)
+  - [#106](https://github.com/quer3q/ampr-emu-ng/pull/106) Retry a refused creating save mount with systemBlocks 0 · Nov 2026
+- **[oat-sa/e2e-runner](https://github.com/oat-sa/e2e-runner)** (2 merged)
+  - [#21](https://github.com/oat-sa/e2e-runner/pull/21) Release 1.3.0 · Aug 2021
+  - [#20](https://github.com/oat-sa/e2e-runner/pull/20) Feature/pr 664/Update getLtiLaunchUrl · Aug 2021
 <!-- MERGED_PRS:END -->
 
 ### 📈 Activity
