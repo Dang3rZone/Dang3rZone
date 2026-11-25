@@ -42,6 +42,8 @@ Want a feature added to a payload? Open an issue on its repo and mention me. I h
 Merged PRs in other people's repos, updated daily.
 
 <!-- MERGED_PRS:START -->
+- **[leolobato/playden-ps5](https://github.com/leolobato/playden-ps5)** (1 merged)
+  - [#1309](https://github.com/leolobato/playden-ps5/pull/1309) Start MonoGame DesktopGL games on OpenGL · Nov 2026
 - **[quer3q/kraken-mount](https://github.com/quer3q/kraken-mount)** (6 merged)
   - [#116](https://github.com/quer3q/kraken-mount/pull/116) Library search, Play button and compact drive filtersFeat/UI refresh · Nov 2026
   - [#115](https://github.com/quer3q/kraken-mount/pull/115) Keep Rebuild disabled until the rebuild is done · Nov 2026
