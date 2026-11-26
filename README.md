@@ -34,6 +34,7 @@ I like giving back to the scene. What I've worked on so far:
 - 💾 **ampr-emu-ng**: fixed games that couldn't create a save (like Castlevania: Belmont's Curse).
 - ⚡ **Kraken Mount**: rebuilding the whole library is about 6× faster (11 min 43 s → under 2 min), faster registration, and timestamps in the log.
 - 🕹️ **Ps5 Upload**: Clear all button for notifications.
+- 🕹️ **Playden-ps5**: Fixed issues with Stardew Valley.
 
 Want a feature added to a payload? Open an issue on its repo and mention me. I help when I have time.
 
