@@ -43,14 +43,14 @@ Want a feature added to a payload? Open an issue on its repo and mention me. I h
 Merged PRs in other people's repos, updated daily.
 
 <!-- MERGED_PRS:START -->
-- **[leolobato/playden-ps5](https://github.com/leolobato/playden-ps5)** (1 merged)
-  - [#1309](https://github.com/leolobato/playden-ps5/pull/1309) Start MonoGame DesktopGL games on OpenGL · Nov 2026
-- **[quer3q/kraken-mount](https://github.com/quer3q/kraken-mount)** (6 merged)
+- **[quer3q/kraken-mount](https://github.com/quer3q/kraken-mount)** (7 merged)
+  - [#131](https://github.com/quer3q/kraken-mount/pull/131) Answer the ShadowMount+ API on 127.0.0.1:10101 too · Nov 2026
   - [#116](https://github.com/quer3q/kraken-mount/pull/116) Library search, Play button and compact drive filtersFeat/UI refresh · Nov 2026
   - [#115](https://github.com/quer3q/kraken-mount/pull/115) Keep Rebuild disabled until the rebuild is done · Nov 2026
   - [#100](https://github.com/quer3q/kraken-mount/pull/100) Report game crashes and a per-game issue report · Nov 2026
-  - [#95](https://github.com/quer3q/kraken-mount/pull/95) Register FW 12+ titles with one install call per scan pass · Nov 2026
-  - ...and 2 more
+  - ...and 3 more
+- **[leolobato/playden-ps5](https://github.com/leolobato/playden-ps5)** (1 merged)
+  - [#1309](https://github.com/leolobato/playden-ps5/pull/1309) Start MonoGame DesktopGL games on OpenGL · Nov 2026
 - **[phantomptr/ps5upload](https://github.com/phantomptr/ps5upload)** (1 merged)
   - [#911](https://github.com/phantomptr/ps5upload/pull/911) Clear all in the notification bell panel · Nov 2026
 - **[quer3q/ampr-emu-ng](https://github.com/quer3q/ampr-emu-ng)** (1 merged)
